@@ -13,7 +13,7 @@
   <script type ="text/babel">
 
   ReactDOM.render(
-  <h1>Sherlock Holmes</h1>,
+  <h1>Francis</h1>,
   document.body
   );
 
